@@ -1,0 +1,21 @@
+feedback,user_id,timestamp,rating
+"I love this app! It's so easy to use and saves me a lot of time.",user_001,2024-01-15 10:30:00,5
+"The app crashes every time I try to upload a file. Very frustrating!",user_002,2024-01-15 11:45:00,1
+"Would be great if you could add a dark mode feature. My eyes hurt at night.",user_003,2024-01-15 14:20:00,3
+"The interface is confusing. It took me forever to find the settings.",user_004,2024-01-15 16:10:00,2
+"Amazing product! Customer support is also very responsive and helpful.",user_005,2024-01-16 09:15:00,5
+"App is too slow when loading large datasets. Need better performance.",user_006,2024-01-16 12:30:00,2
+"I wish there was an option to export data to Excel format.",user_007,2024-01-16 15:45:00,4
+"Bug in the search function - it doesn't return accurate results.",user_008,2024-01-17 10:00:00,2
+"Great app but needs better integration with Google Calendar.",user_009,2024-01-17 13:20:00,4
+"The mobile version is terrible. Buttons are too small and hard to click.",user_010,2024-01-17 16:50:00,1
+"Love the new dashboard update! Much cleaner and more intuitive.",user_011,2024-01-18 08:30:00,5
+"Please add multi-language support. We need Spanish and French options.",user_012,2024-01-18 11:00:00,3
+"Notification system is broken. I never receive important alerts.",user_013,2024-01-18 14:15:00,1
+"The app is good but could use better security features like 2FA.",user_014,2024-01-18 17:30:00,3
+"Excellent tool for project management. Saves our team hours each week.",user_015,2024-01-19 09:45:00,5
+"I suggest adding a feature to schedule automatic backups.",user_016,2024-01-19 12:15:00,4
+"The app freezes when I try to access the reports section.",user_017,2024-01-19 15:30:00,1
+"Would like to see better collaboration tools for team projects.",user_018,2024-01-19 18:00:00,4
+"Login process is too complicated. Should support single sign-on.",user_019,2024-01-20 10:20:00,2
+"Outstanding app! The analytics dashboard provides great insights.",user_020,2024-01-20 13:40:00,5
